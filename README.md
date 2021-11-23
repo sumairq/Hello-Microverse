@@ -4,6 +4,8 @@
 
 > Hello-Microverse is a project for for learning the basic framework of using the github for collaboration.
 
+![screenshot](./hello-microverse.png)
+
 ## Built With
 
 JavaScript
